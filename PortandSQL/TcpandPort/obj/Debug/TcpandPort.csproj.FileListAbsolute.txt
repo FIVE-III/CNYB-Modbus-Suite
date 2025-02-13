@@ -1,0 +1,9 @@
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\bin\Debug\TcpandPort.dll
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\bin\Debug\TcpandPort.pdb
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\obj\Debug\TcpandPort.csproj.AssemblyReference.cache
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\obj\Debug\TcpandPort.csproj.CoreCompileInputs.cache
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\obj\Debug\TcpandPort.dll
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\obj\Debug\TcpandPort.pdb
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\bin\Debug\NModbus4.dll
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\bin\Debug\NModbus4.xml
+C:\Users\苏呜呜\source\repos\PortandSQL\TcpandPort\obj\Debug\TcpandPort.csproj.Up2Date

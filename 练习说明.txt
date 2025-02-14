@@ -1,0 +1,5 @@
+这是一个vs2022的Windows窗体运用
+这也是首次尝试向github上传文件的练手
+项目就是简单的配合modbus Slave尝试的modbustcp和port的练习
+port有些参数获取的思路卡住了，没写到控件里。
+控件界面暂时就实现了tcp的查询和写入功能
